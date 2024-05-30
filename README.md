@@ -1,7 +1,7 @@
-Online Quiz in Python
+Python Quiz in Python
 
 
-Welcome to the Online Quiz in Python project! This project is a simple, yet powerful, online quiz application built using Python. It is designed to help users create, manage, and take quizzes directly from the command line or a simple web interface.
+Welcome to the Python Quiz in Python project! This project is a simple, yet powerful, online quiz application built using Python. It is designed to help users create, manage, and take quizzes directly from the command line or a simple web interface.
 
 Features
 Create Quizzes: Easily create quizzes with multiple choice questions.
