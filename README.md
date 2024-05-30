@@ -15,6 +15,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-If you have any questions or suggestions, feel free to open an issue or contact me at [your email address].
+If you have any questions or suggestions, feel free to open an issue or contact me at nikhilsaseendran06@gmail.com.
 
 You can copy and paste this formatted text into your README file on GitHub. Make sure to replace [your email address] with your actual email address or GitHub username for contact purposes.
